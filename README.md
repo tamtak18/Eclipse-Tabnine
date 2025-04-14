@@ -88,7 +88,7 @@
 1. Tabnine公式ページで無料アカウント登録（メールアドレスでOK）  
    👉 https://app.tabnine.com/signup
 
-2. Eclipse 上で `ウィンドウ > 設定 > Tabnine` を開き、`Open Hub` をクリック
+2. Eclipse 上で下部にあるTabnine Dev をクリックし、`Open Hub` をクリック
 
 3. ブラウザが開いたらログイン状態を確認  
    - Proトライアル中であれば AI補完（Cloud AI）とチャット機能が有効化される
