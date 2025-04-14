@@ -2,6 +2,7 @@
 
 以下に、 **「Eclipse + Pleiades + Tabnine の共存環境構築手順」** を、チーム共有用にまとめました。  
 **TabnineとPleiadesの競合回避**を意識しつつ、再現性高く構築できるように整理しています。
+Tabnine　　https://www.tabnine.com/
 ---
 
 # Eclipse + Pleiades + Tabnine セットアップ手順書（Windows版）
